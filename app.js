@@ -134,4 +134,4 @@ let startGame = () => {
   checkUserPrompt();
 };
 
-startGame();
+startGame(); 
